@@ -1,0 +1,105 @@
+/** {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #efefef;
+}
+
+main {
+	width: 50%;
+	padding: 50px;
+	margin: auto;
+	background-color: #fff;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+
+h1{
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+}
+*/
+/*
+.photo {
+	width: calc(50% - 40px);
+	height: calc((35vw - 40px) / 16 * 9);
+	margin: 20px;
+}
+*/
+
+.conterner {
+	width: 100%;      
+}
+
+.img {
+		
+		width: 30%;
+		height: 420px;
+		float: left;
+
+
+		background-color: pink;
+		padding: 10px;
+						border: 10px solid orange;
+
+	}
+	.photo {
+		   width: 95%;
+		   height: 95%;
+
+		display: block;
+		margin: 0 auto; 
+
+
+	}
+
+	.photo:hover{
+		transform: rotate(0deg) scale(1.14 );
+		box-shadow: 0 0 20px 1px rgba(0, 0, 0, 1.4);
+	}
+	/*
+		.img2 {
+			
+		width: 30%;
+		height: 40%;
+		float: left;
+		display: inline-block;
+		background-color: yellow;
+		box-sizing: border-box;
+		display: block;
+		border: 10px solid #eee;
+		}
+		.img3 {
+			background-image: url(3.jfif);
+		}
+		.img4 {
+			background-image: url(4.jpg);
+		}
+		.img5 {
+			background-image: url(5.jpeg);
+		}
+		.img6 {
+			background-image: url(6.jfif);
+		}
+		.img7 {
+			background-image: url(7.jfif);
+		}
+		.img8 { 
+			background-image: url(8.jpeg);
+		}
+		.img9 {
+			background-image: url(9.jpeg);
+		}
+		
+		.img10 {
+			background-image: url(10.jpg);
+		}
+		*/
+		

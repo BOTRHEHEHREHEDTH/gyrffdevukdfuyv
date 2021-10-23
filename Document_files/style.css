@@ -1,0 +1,70 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #efefef;
+}
+
+main {
+	width: 70%;
+	padding: 50px;
+	margin: auto;
+	background-color: #fff;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.photo {
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+	background-color: orange;
+}
+
+h1{
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+}
+.photo {
+	width: calc(50% - 40px);
+	height: calc((35vw - 40px) / 16 * 9);
+	margin: 20px;
+	background-color: orange;
+}
+
+
+.photo {
+			background-image: url(1.jfif)
+		}
+		.photo {
+			background-image: url(2.jfif)
+		}
+		.photo {
+			background-image: url(3.jfif)
+		}
+		.photo {
+			background-image: url(4.jpg)
+		}
+		.photo {
+			background-image: url(5.jpeg)
+		}
+		. {
+			background-image: url(6.jfif)
+		}
+		.photo {
+			background-image: url(7.jfif)
+		}
+		.photo {
+			background-image: url(8.jpeg)
+		}
+		.photo {
+			background-image: url(9.jpeg)
+		}
+		.photo {
+			background-image: url(10.jpg)
+		}
